@@ -1,6 +1,9 @@
 # vue-portfolio
 
-## Project setup
+## Project Showcase
+https://muhaafidz-vue-portfolio.netlify.app/
+
+## Project Setup
 ```
 npm install
 ```
